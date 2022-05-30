@@ -1,0 +1,14 @@
+body{
+    background: url("@img/rasimlar.jpg") 0 0 no-repeat;
+}
+
+@media(max-width: 769px) {
+    span{
+        color: red;
+    }
+}
+@media(max-width: 769px) {
+    span{
+        color: green;
+    }
+}
